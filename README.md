@@ -1,0 +1,2 @@
+# Big-Data-Analysis-Traffic-Congestion-Prediction-USA
+Short-term traffic flow forecast experiments using a real traffic flow time series from Kaggle and other sources were used to compare the traditional forecast model: convolutional neural network (CNN) and machine learning model: Decision Tree (DT). The suggested LSTM network outperformed traditional models in terms of prediction accuracy, according to the results. 
